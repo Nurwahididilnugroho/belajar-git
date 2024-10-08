@@ -1,0 +1,2 @@
+1. git Brunch itu untuk menambahkan head
+2. git checkout itu untuk mengubah head
