@@ -1,1 +1,23 @@
-git adalah
+ls = >untuk melihat folder
+pwd = >untuk melihat folder sdng di gunakan
+cd =>untuk memindahkan folder yang terbuka 
+mkdir => membuat folder baru
+git config--list cek pengaturan git
+git status => untuk cek status git
+got log --graph =>melihat riwayat coic 
+clear => membersihkan tampilan
+rm - r? menghapus folder
+git add => pindahkan hasil perubahanke stagging
+git commic => menyimpan ke repo
+git branch (master main)
+git checkout => untuk pindah head ke komit
+git init => menginisiasi folder jadirepo
+git refloge =>
+git restore +" untuk undo file
+git remote => untuk menghubungkan git dengan github
+
+git adalah salah satu tools dari version control system
+
+github adalah platform yang berisi git
+
+**ini adalah tanda bold dalam git**
